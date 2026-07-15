@@ -1,31 +1,53 @@
-# Project Polaris Rover
-
-An autonomous rover prototype inspired by planetary exploration missions.
+# Project Polaris Rover 🚀
 
 ## Mission
 
-Design, build and iteratively improve a rover capable of navigating unfamiliar terrain while collecting environmental data.
+Project Polaris is an autonomous rover development project inspired by planetary exploration missions.
+
+The goal is to design, build, and improve a rover platform capable of movement, environmental sensing, and autonomous navigation.
+
+
+## Vision
+
+To explore the challenges of designing robotic systems for environments where human access is limited.
+
 
 ## Current Phase
 
-Planning & Hardware Selection
-
+🟡 Phase 0: Planning & System Design
 ## Objectives
 
-- Design a reliable rover platform
-- Develop autonomous navigation
-- Integrate environmental sensors
-- Document every engineering decision
+- [ ] Design rover architecture
+- [ ] Assemble mobile platform
+- [ ] Implement motor control
+- [ ] Integrate environmental sensors
+- [ ] Develop autonomous navigation
+- [ ] Document engineering iterations
 
-## Progress
+## Hardware
 
-- [x] GitHub Repository Created
-- [ ] Hardware Ordered
-- [ ] Chassis Assembly
-- [ ] Motor Control
-- [ ] Sensor Integration
-- [ ] Autonomous Navigation
+Planned components:
 
-## Engineering Log
+- Arduino Uno
+- DC Motors
+- L298N Motor Driver
+- Rover Chassis
+- Environmental Sensors
 
-Every major design decision, failure, and improvement will be documented in this repository.
+## Software
+
+Technologies:
+
+- Arduino C/C++
+- Python (future expansion)
+
+## Engineering Philosophy
+
+Every version, failure, improvement, and design decision will be documented throughout the development process.
+
+
+## Progress Log
+
+| Date      | Milestone          |
+|-----------|--------------------|
+| July 2026 | Repository created |
