@@ -1,19 +1,31 @@
-# Planetary-rover
-Autonomous rover system for robotics + space exploration
+# Project Polaris Rover
 
-This project is a robotics based system designed to simulate autonomous rover behaviour for planetary exploration.
+An autonomous rover prototype inspired by planetary exploration missions.
 
-Goals
--Build a working rover using Arduino
--Implement obstacle avoidance
--Develop autonomous navigation logic
--Expand into space exploration simulation
+## Mission
 
-Current Status
-Phase 1: Setup
+Design, build and iteratively improve a rover capable of navigating unfamiliar terrain while collecting environmental data.
 
-Tools Used
-1.Arduino/ESP32
-2.Sensors(ultrasonic, IR)
-3.Motors
-4.Python (future upgrade)
+## Current Phase
+
+Planning & Hardware Selection
+
+## Objectives
+
+- Design a reliable rover platform
+- Develop autonomous navigation
+- Integrate environmental sensors
+- Document every engineering decision
+
+## Progress
+
+- [x] GitHub Repository Created
+- [ ] Hardware Ordered
+- [ ] Chassis Assembly
+- [ ] Motor Control
+- [ ] Sensor Integration
+- [ ] Autonomous Navigation
+
+## Engineering Log
+
+Every major design decision, failure, and improvement will be documented in this repository.
